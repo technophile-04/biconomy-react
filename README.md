@@ -1,14 +1,10 @@
-# Scaffold-Eth 2
+# Biconomy-react
 
-⚠️ This project is currently under active development. Things might break. Feel free to check the open issues & create new ones.
+Bicnonomy-react contains hooks and wrappers around [biconomy-sdk](https://biconomy.gitbook.io/sdk/introduction/overview) which makes [biconomy-sdk](https://biconomy.gitbook.io/sdk/introduction/overview) more declarative, and easy to use with all the common states handled internally. 
 
-*The best way to get started building decentralized applications on Ethereum!*
+This will be soon extracted into its own library. 
 
-A new version of [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth/tree/master) with its core functionality. Built using NextJS, RainbowKit, Wagmi and Typescript.
-
-- ✅ Contract component to easily edit the smart contracts and view & test the contract on your frontend
-- 🔥 Burner wallet & local faucet
-- 🔐 Integration with the different wallet providers
+Generated from [se-2](https://github.com/scaffold-eth/se-2) ❤️
 
 ---
 
@@ -17,8 +13,8 @@ A new version of [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth/tre
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/scaffold-eth/se-2.git
-cd se-2
+git clone https://github.com/technophile-04/biconomy-react
+cd biconomy-react
 yarn install
 ```
 
@@ -122,9 +118,9 @@ We have github workflow setup checkout `.github/workflows/lint.yaml` which runs 
 To disable it, **delete `.github` directory** 
 
 ---
-## Contributing to Scaffold-Eth 2
+## Contributing to biconomy-react
 
-We welcome contributions to Scaffold-Eth 2!
+We welcome contributions to biconomy-react!
 
-Please see [CONTRIBUTING.MD](https://github.com/scaffold-eth/se-2/blob/master/CONTRIBUTING.md) for more information and guidelines for contributing to Scaffold-Eth 2.
+Please see [CONTRIBUTING.MD](https://github.com/technophile-04/biconomy-react/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to biconomy-react.
 
